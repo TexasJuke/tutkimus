@@ -1,1 +1,2 @@
 # tutkimus
+“Olemme tutkimusprojektissa, jossa etsimme parasta täysin ilmaista, yhden tekstikäskyn pohjalta toimivaa AI-pohjaista työkalua, joka tuottaa täyden graafisen Android-pelin (Pokemon GO -tyyli ilman AR:ia, mutta GPS & kartta). Jokaisella aliprojektin agentilla on oma roolinsa—DataGatherer lukee 1_data_list.json ja tallentaa sille, ProsConsEvaluator käyttää DataGathererin listaa tietyssä formaatissa jne. Toimi annetun tiedoston lukijana/kirjoittajana ja käytä aina oikeita tiedostopolkuja.”
